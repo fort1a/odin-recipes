@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Projects
+Odin Projects Space
